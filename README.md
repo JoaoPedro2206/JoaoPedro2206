@@ -13,7 +13,7 @@
 Sou estudante de Engenharia de Software na Universidade de Brasília (UnB) e estou sempre em busca de novos desafios e aprendizado. Aqui no meu GitHub, você encontrará meus projetos, experimentos e contribuições para o desenvolvimento de soluções tecnológicas.
 
 - **Formação:** Estudante de Engenharia de Software na UNB
-- **Interesses:** Desenvolvimento web, mobile, inteligência artificial, automação e novas tecnologias.
+- **Interesses:** Desenvolvimento web, Progamação Competitiva, mobile, inteligência artificial, automação e novas tecnologias.
 
 <br>
 
@@ -49,7 +49,7 @@ Sou estudante de Engenharia de Software na Universidade de Brasília (UnB) e est
 
 <br>
 
-## Projetos
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWUyenFlMmZpYTdxbmZscXFhamFib25ydWttaGVtMjdnOXpqbnNiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TexK6Gdz5klNCuWnzi/giphy.gif" width ="25"><b> Projetos</b>
 
 - **CultivaTech:** Aplicativo mobile voltado para a gestão de plantações rurais, com o objetivo de ajudar os pequenos e médios produtores rurais a melhorar a eficiência e a organização de suas plantações. Feito com React Native para o FrontEnd, Node.js para o BackEnd e SQLite como Banco de Dados.
 [Link para o repositório](https://github.com/FGA0138-MDS-Ajax/2024.2-Tiwaz)
